@@ -24,7 +24,7 @@ Few information needed on the email body:
   [ ] 3 - 5\
   [ ] 6 - 10\
   [ ] 10 - 30\
-  [ ] > 30\
+  [ ] > 30
 - Core per server (can be averaged if servers contain multiple setups)
 
 Once these information gets validated, a quote will be sent to "Contact email" above.
