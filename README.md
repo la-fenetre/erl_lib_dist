@@ -29,4 +29,4 @@ Few information needed on the email body:
 - Core per server (can be averaged if servers contain multiple setups)
 
 Once these information gets validated, a quote will be sent to "Contact email" above.
-
+After payment is received, certificate of use of license key and instruction to apply this will also be sent to "Contact Email".
