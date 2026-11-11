@@ -19,6 +19,7 @@ Few information needed on the email body:
   [ ] Non-commercial (e.g. educational purpose)\
   [ ] Commercial\
   This will define the price tiering
+- Operating system name and version (e.g. Debian Trixie Slim)
 - Number of servers:\
   [ ] 1 - 2\
   [ ] 3 - 5\
