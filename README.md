@@ -7,8 +7,12 @@ The library (code releases) were previously downloadable from company website. H
 and deployment easier from client perspective, both library and documentation have since been moved to this GitHub page.
 
 ## License
-This library **requires commercial license** to operate. For any inquiry, please contact `hello@hai-app.id` with email
-subject as `License: erl_lib_dist` ([or use this link](mailto:hello@hai-app.id?subject=License:%20erl_lib_dist)).
+This library **requires commercial license** to operate. For any inquiry, please contact one of our partners below with email
+subject as `License: erl_lib_dist`.
+- [hello@hai-app.id](mailto:hello@hai-app.id?subject=License:%20erl_lib_dist)
+- [inquiry@chronosus-ph.com](mailto:inquiry@chronosus-ph.com?subject=License:%20erl_lib_dist)
+- [sales@banchiangth.com](mailto:sales@banchiangth.com?subject=License:%20erl_lib_dist)
+
 Few information needed on the email body:
 - Organization name
 - Organization office address
